@@ -39,7 +39,7 @@ Like so:
 
   - Add the line: `import tf_keras as tk`.
   - Change the line: `model = load_model("keras_Model.h5", compile=False)` to: `model = tk.models.load_model("keras_model.h5", compile=False)`.
-  - Declare the path for the image used for testing.
+  - Declare the path for the image used for testing (image should not have been used in training the model).
 
 Like so:
 
@@ -47,4 +47,6 @@ Like so:
 
 ## Test Result
 
+![Image Alt]()
 
+The picture used for testing the model was an image of a Samsung phone, the model correctly classified and determined that the image belongs to the Samsung class.
