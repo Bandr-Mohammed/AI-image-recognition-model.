@@ -6,7 +6,9 @@ A keras AI image recognition model trained and tested to recognize and different
 
 - Opening the TeachableMachin website
 - Naming the classes (in this case "Iphone" and "Samsung") and uploading the images for its appropriate class.
-- Then clicking the "Train Model" button in the "Training". Like so:
+- Then clicking the "Train Model" button in the "Training".
+
+Like so:
 
 
 
