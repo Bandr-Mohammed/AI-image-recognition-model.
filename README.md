@@ -28,3 +28,14 @@ Like so:
 Like so:
 
 ![Image Alt](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(7).png?raw=true)
+
+- Upload an image for testing the model, as well as the extracted files from the downloaded "converted.keras" zip file.
+
+Like so:
+
+![Image Alt]()
+
+- Then applying the following changes to the code:
+  - Add the line "import tf_keras as tk"
+  - change the line "model = load_model("keras_Model.h5", compile=False)" to "model = tk.models.load_model("keras_model.h5", compile=False)"
+  - 
