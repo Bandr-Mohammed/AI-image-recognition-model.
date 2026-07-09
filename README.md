@@ -47,6 +47,6 @@ Like so:
 
 ## Test Result
 
-![Image Alt]()
+![Image Alt](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(10).png?raw=true)
 
 The picture used for testing the model was an image of a Samsung phone, the model correctly classified and determined that the image belongs to the Samsung class.
