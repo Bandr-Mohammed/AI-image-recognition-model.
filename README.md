@@ -36,6 +36,7 @@ Like so:
 ![Image Alt](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(8).png?raw=true)
 
 - Then applying the following changes to the code:
+
   - Add the line "import tf_keras as tk"
   - change the line "model = load_model("keras_Model.h5", compile=False)" to "model = tk.models.load_model("keras_model.h5", compile=False)"
   - 
