@@ -1,6 +1,6 @@
 # AI-image-recognition-model
 
-A keras AI image recognition model trained and tested to recognize and differentiate between Iphone and Samsung mobile phones.
+A keras AI image recognition model trained and tested to recognize and differentiate between Iphone and Samsung mobile phones using the TeachableMachin website and Googlecolab notebooks.
 
 ## Steps for model creation and training
 
