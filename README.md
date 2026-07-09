@@ -37,6 +37,10 @@ Like so:
 
 - Then applying the following changes to the code:
 
-  - Add the line "import tf_keras as tk"
-  - change the line "model = load_model("keras_Model.h5", compile=False)" to "model = tk.models.load_model("keras_model.h5", compile=False)"
-  - 
+  - Add the line "import tf_keras as tk".
+  - Change the line "model = load_model("keras_Model.h5", compile=False)" to "model = tk.models.load_model("keras_model.h5", compile=False)".
+  - Declare the path for the image used for testing.
+
+Like so:
+
+![Image Alt]()
