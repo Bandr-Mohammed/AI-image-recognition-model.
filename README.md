@@ -1,4 +1,4 @@
-# AI-image-recognition-model.
+# AI-image-recognition-model
 
 A keras AI image recognition model trained and tested to recognize and differentiate between Iphone and Samsung mobile phones.
 
@@ -14,7 +14,7 @@ Like so:
 
 
 - After training the model, we need to export the model by clicking the `Export Model` button.
-- Then choosing the `Tensorflow` category and making sure the model conversion type is "keras"
+- Then choosing the `Tensorflow` category and making sure the model conversion type is "keras".
 - Finally, clicking on the `Download my model` button.
 
 Like so:
@@ -23,4 +23,8 @@ Like so:
 
 ## Steps for testing the model
 
-- Copying the keras code from the TeachableMachin and pasting it into a GoogleColab notebook
+- Copying the keras code from the TeachableMachin and pasting it into a GoogleColab notebook.
+
+Like so:
+
+![Image Alt]()
