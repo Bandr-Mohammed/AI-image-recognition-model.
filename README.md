@@ -9,6 +9,7 @@ A keras AI image recognition model trained and tested to recognize and different
 - Then clicking the `Train Model` button in the "Training".
 
 Like so:
+
 ![Image Alt](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(5).png?raw=true)
 
 
@@ -19,3 +20,5 @@ Like so:
 Like so:
 
 ![Image Alt](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(6).png?raw=true)
+
+## Steps for testing the model
