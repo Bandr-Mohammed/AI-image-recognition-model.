@@ -22,3 +22,5 @@ Like so:
 ![Image Alt](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(6).png?raw=true)
 
 ## Steps for testing the model
+
+- Copying the keras code from the TeachableMachin and pasting it into a GoogleColab notebook
