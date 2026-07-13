@@ -12,6 +12,8 @@ Like so:
 
 ![Image Alt](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(5).png?raw=true)
 
+![Image Alt]()
+
 
 - After training the model, we need to export the model by clicking the `Export Model` button.
 - Then choosing the `Tensorflow` category and making sure the model conversion type is "keras".
