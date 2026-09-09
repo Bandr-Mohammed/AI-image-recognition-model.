@@ -10,7 +10,7 @@ A keras AI image recognition model trained and tested to recognize and different
 
 Like so:
 
-pp
+![Image ALT]()
 
 
 - After training the model, we need to export the model by clicking the `Export Model` button.
@@ -19,7 +19,7 @@ pp
 
 Like so:
 
-pp
+![Image ALT]()
 
 ## Steps for testing the model
 
@@ -27,13 +27,13 @@ pp
 
 Like so:
 
-pp
+![Image ALT]()
 
 - Upload an image for testing the model, as well as the extracted files from the downloaded "converted.keras" zip file.
 
 Like so:
 
-pp
+![Image ALT]()
 
 - Then applying the following changes to the code:
 
@@ -43,12 +43,12 @@ pp
 
 Like so:
 
-pp
+![Image ALT]()
 
 
 ## Test Result
 
 
-pp
+![Image ALT]()
 
 The picture used for testing the model was an image of a Samsung phone, the model correctly classified and determined that the image belongs to the Samsung class with a confidence score of: 98%.
