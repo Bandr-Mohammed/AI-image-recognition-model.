@@ -10,7 +10,7 @@ A keras AI image recognition model trained and tested to recognize and different
 
 Like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(5).png?raw=true)
 
 
 - After training the model, we need to export the model by clicking the `Export Model` button.
@@ -19,7 +19,7 @@ Like so:
 
 Like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(6).png?raw=true)
 
 ## Steps for testing the model
 
@@ -27,7 +27,7 @@ Like so:
 
 Like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(7).png?raw=true)
 
 - Upload an image for testing the model, as well as the extracted files from the downloaded "converted.keras" zip file.
 
@@ -49,6 +49,6 @@ Like so:
 ## Test Result
 
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(10).png?raw=true)
 
 The picture used for testing the model was an image of a Samsung phone, the model correctly classified and determined that the image belongs to the Samsung class with a confidence score of: 98%.
