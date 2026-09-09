@@ -33,7 +33,7 @@ Like so:
 
 Like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/AI-image-recognition-model./blob/main/Screenshot%20(8).png?raw=true)
 
 - Then applying the following changes to the code:
 
